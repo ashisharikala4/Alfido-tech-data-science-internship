@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the projects completed during my Data Science Internship at **Alfido Tech**. These projects demonstrate skills in data cleaning, exploratory data analysis, data visualization, and machine learning using Python and its data science ecosystem.
+This repository contains the projects completed during my Data Science Internship at **Alfido Tech**. These projects demonstrate practical skills in data cleaning, exploratory data analysis, data visualization, and machine learning using Python and its data science ecosystem.
 
 ---
 
@@ -40,7 +40,7 @@ Build a machine learning model to predict loan approval based on borrower inform
 - Decision Tree Classification
 - Model Evaluation using ROC-AUC Score
 
-### Best Model Performance
+### Model Performance
 
 | Model | ROC-AUC Score |
 |---------|-------------|
@@ -60,7 +60,7 @@ Build a machine learning model to predict loan approval based on borrower inform
 ## Task 3 - Instagram Engagement Analysis
 
 ### Objective
-Analyze Instagram engagement patterns to identify optimal posting times and content strategies.
+Analyze Instagram engagement patterns to identify optimal posting times and effective content strategies.
 
 ### Key Highlights
 - Data Cleaning and Exploration
@@ -76,8 +76,6 @@ Analyze Instagram engagement patterns to identify optimal posting times and cont
 - NumPy
 - Matplotlib
 - Seaborn
-
----
 
 ---
 
@@ -99,10 +97,10 @@ Analyze Instagram engagement patterns to identify optimal posting times and cont
 - Data Cleaning and Preprocessing
 - Exploratory Data Analysis (EDA)
 - Data Visualization
-- Statistical Analysis
 - Machine Learning
 - Feature Engineering
 - Model Evaluation
+- Statistical Analysis
 - Business Insights Generation
 
 ---
@@ -117,4 +115,4 @@ Anurag University
 
 ---
 
-⭐ If you found this repository useful, feel free to explore the projects and their individual documentation.
+⭐ Thank you for visiting this repository. Feel free to explore the projects and their individual documentation.
