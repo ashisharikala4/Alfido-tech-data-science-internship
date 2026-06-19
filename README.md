@@ -79,17 +79,6 @@ Analyze Instagram engagement patterns to identify optimal posting times and cont
 
 ---
 
-## Repository Structure
-
-```
-Alfido-tech-data-science-internship
-│
-├── Task1_Zomato_Analysis
-├── Task2_Loan_Approval_Prediction
-├── Task3_Instagram_Engagement_Analysis
-└── README.md
-```
-
 ---
 
 ## Technologies Used
